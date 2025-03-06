@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://nrgeidarova.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://nrgeidarova.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nrgeidarova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://nrgeidarova.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://nrgeidarova.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nrgeidarova.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели-взлеты-падения-и-новые-инсайты-&#34;&gt;Итоги недели: взлеты, падения и новые инсайты 🚀&lt;/h2&gt;
+&lt;p&gt;Эта неделя была насыщенной! Вот несколько главных событий:&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;Первый проект в команде:&lt;/strong&gt; попробовали работать в группе, используя Git. Ошибок было много, но зато теперь знаю, как НЕ надо делать 😅.&lt;/p&gt;
+&lt;p&gt;📖 &lt;strong&gt;Лекции по алгоритмам:&lt;/strong&gt; начали разбирать сортировки. Быстрая сортировка впечатлила, но пока мозг не до конца ее осознал.&lt;/p&gt;
+&lt;p&gt;💡 &lt;strong&gt;GitHub и open source:&lt;/strong&gt; изучала, как работают pull requests и как люди участвуют в разработке чужих проектов. Оказалось, это целая культура!&lt;/p&gt;
+&lt;p&gt;🔥 &lt;strong&gt;Вывод недели:&lt;/strong&gt; чем больше практики, тем меньше страха перед кодом. План на следующую неделю — написать хотя бы один pet-проект.&lt;/p&gt;
+&lt;p&gt;Как прошла твоя неделя? Делись в комментариях! 👇&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
