@@ -5,12 +5,24 @@
     <link>https://nrgeidarova.github.io/tags/hugo-blox/</link>
       <atom:link href="https://nrgeidarova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nrgeidarova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://nrgeidarova.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://nrgeidarova.github.io/post/02/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nrgeidarova.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;как-прошла-учебная-неделя&#34;&gt;Как прошла учебная неделя?&lt;/h1&gt;
+&lt;p&gt;Привет! 😊 Неделя выдалась непростой, но интересной. Больше всего времени ушло на программирование – разбирались с алгоритмами и структурами данных. Иногда кажется, что код живёт своей жизнью, но когда удаётся разобраться в ошибке, это приносит настоящее удовлетворение.&lt;/p&gt;
+&lt;p&gt;Кроме того, изучали новые темы по дискретной математике. Пока что это кажется абстрактным, но говорят, что потом всё встанет на свои места.&lt;/p&gt;
+&lt;p&gt;Главное – не сдаваться и разбираться в темах, даже если они кажутся сложными. Как прошла твоя неделя? Делись в комментариях! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
