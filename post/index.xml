@@ -5,12 +5,29 @@
     <link>https://nrgeidarova.github.io/post/</link>
       <atom:link href="https://nrgeidarova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nrgeidarova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://nrgeidarova.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://nrgeidarova.github.io/post/03/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://nrgeidarova.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-что-нового-на-кн-за-неделю&#34;&gt;💻 Что нового на КН за неделю&lt;/h1&gt;
+&lt;p&gt;Неделя прошла бодро, без лишней суеты, но с акцентом на практику:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 Продвинулись в алгоритмах — теперь уверенно пишем рекурсивные функции и начинаем оптимизировать.&lt;/li&gt;
+&lt;li&gt;🛠️ На системном программировании работали с памятью — malloc/free наконец-то в голове уложились.&lt;/li&gt;
+&lt;li&gt;🔍 Получили первую задачу в рамках мини-проекта — делаем парсер логов для анализа активности пользователей.&lt;/li&gt;
+&lt;li&gt;🧃 Периодически разбавляем код обсуждениями в телеге и какао в столовой (без этого никак 😄)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Баланс теории и практики начинает выравниваться, и это радует. Дальше — больше, но уже без паники.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
