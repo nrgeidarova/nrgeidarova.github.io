@@ -5,7 +5,7 @@
     <link>https://nrgeidarova.github.io/tags/hugo/</link>
       <atom:link href="https://nrgeidarova.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nrgeidarova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,34 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://nrgeidarova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nrgeidarova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://nrgeidarova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nrgeidarova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://nrgeidarova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nrgeidarova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Как учёному создать свой сайт с Hugo Academic</title>
+      <link>https://nrgeidarova.github.io/project/hugo/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nrgeidarova.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;как-учёному-создать-свой-сайт-с-hugo-academic&#34;&gt;Как учёному создать свой сайт с Hugo Academic&lt;/h1&gt;
+&lt;h2 id=&#34;зачем-учёному-сайт&#34;&gt;Зачем учёному сайт?&lt;/h2&gt;
+&lt;p&gt;В эпоху цифровой науки наличие личного сайта — это не просто модный тренд, а реальный способ представить себя, свои исследования и достижения. Это визитка, которая работает 24/7. И если вы хотите, чтобы вашу работу замечали не только в узких кругах, Hugo Academic — отличное решение.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-hugo-academic&#34;&gt;Что такое Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Это не просто тема для Hugo — это целая экосистема для создания академически ориентированных сайтов. Она идеально подойдёт тем, кто хочет публиковать статьи, делиться проектами, вести блог или рассказывать о курсах, не тратя время на вёрстку и программирование.&lt;/p&gt;
+&lt;h2 id=&#34;чем-он-хорош&#34;&gt;Чем он хорош?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Интуитивный интерфейс&lt;/strong&gt;: Всё организовано по папкам и файлам — как в научной работе. Структурировано и логично.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Красивый и адаптивный дизайн&lt;/strong&gt;: Сайт сразу выглядит профессионально, и отлично отображается как на экранах ноутбуков, так и на смартфонах.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость&lt;/strong&gt;: Хотите показать свои публикации? Нет проблем. Нужно добавить страницу с курсами или лабораторией? Легко.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка научного контента&lt;/strong&gt;: Формат BibTeX для ссылок, публикации с соавторами, интеграция с ORCID и Google Scholar — всё под рукой.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-можно-использовать&#34;&gt;Как можно использовать&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Публиковать научные статьи и тезисы.&lt;/li&gt;
+&lt;li&gt;Вести блог о ходе исследований.&lt;/li&gt;
+&lt;li&gt;Представлять научные проекты и команду.&lt;/li&gt;
+&lt;li&gt;Добавлять курсы, программы и учебные материалы.&lt;/li&gt;
+&lt;li&gt;Связываться с коллегами и потенциальными партнёрами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это способ говорить с миром на языке науки. Вы получаете мощную платформу, не отвлекаясь на технические детали. И что особенно приятно — всё остаётся под вашим контролем: контент, структура, дизайн. Просто, прозрачно, эффективно.&lt;/p&gt;
+&lt;p&gt;Если вы ещё не представлены в сети как исследователь — сейчас самое время это изменить.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
